@@ -63,9 +63,3 @@ def setByDay( nilai ):
         print('sama')
     
 selectAll()
-setByDay( 16.9 )
-selectAll()
-
-print(getTodayTotalizer())
-#insertValue(jenis, posisi, 12, jenis)
-#deleteAll()
